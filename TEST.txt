@@ -8,3 +8,9 @@ CORS CORS(Cross Origin Resource Sharing) 메커니즘은 HTTP 헤더를 사용�
 대상 오리진의 서버에서 선택된 리소스에 액세스할 권한을 부여하도록 브라우저에 지시합니다.
 
 엣지 최적화 전 세계의 클라이언트에 보다 효과적으로 서비스를 제공하기 위해 AWS 글로벌 인프라를 사용하는 리소스입니다.
+
+https://o5cqekdju2.execute-api.us-east-1.amazonaws.com/dev
+
+arn:aws:dynamodb:us-east-1:119356058808:table/HelloDatabase
+
+https://master.d2tij3bq7ulwus.amplifyapp.com/
