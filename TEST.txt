@@ -1,0 +1,16 @@
+RESTful API REST는 "Representational State Transfer"를 의미하며, 웹 서비스를 생성하기 위한 아키텍처 패턴입니다.
+ API는 "애플리케이션 프로그램 인터페이스"를 의미한다. 따라서 RESTful API는 아키텍처 패턴을 구현합니다.
+
+HTTP 요청 메서드 HTTP 메서드는 클라이언트와 서버 간의 통신을 지원하도록 설계되었습니다. 
+HTTP 프로토콜에 의해 정의되는 GET 또는 PUT과 같은 메서드는 리소스에 대해 수행할 작업을 나타냅니다.
+
+CORS CORS(Cross Origin Resource Sharing) 메커니즘은 HTTP 헤더를 사용하여 지정된 웹 애플리케이션을 한 오리진(도메인)에서 실행하고 
+대상 오리진의 서버에서 선택된 리소스에 액세스할 권한을 부여하도록 브라우저에 지시합니다.
+
+엣지 최적화 전 세계의 클라이언트에 보다 효과적으로 서비스를 제공하기 위해 AWS 글로벌 인프라를 사용하는 리소스입니다.
+
+https://o5cqekdju2.execute-api.us-east-1.amazonaws.com/dev
+
+arn:aws:dynamodb:us-east-1:119356058808:table/HelloDatabase
+
+https://master.d2tij3bq7ulwus.amplifyapp.com/
